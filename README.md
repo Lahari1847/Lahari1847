@@ -1,21 +1,20 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER / STARTING FRAME ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=220&section=header&text=Lahari%20Aradhya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=250&section=header&text=Lahari%20Aradhya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Python&descAlignY=60&descSize=20" width="100%" />
 
-# Hi, I'm Lahari Aradhya 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Python+Developer;Data+%26+AI+Enthusiast;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
 
-### Artificial Intelligence & Data Science Student | 🐍 Python Developer | 📊 Data & AI Enthusiast
+<br/><br/>
 
-<p>
 <a href="https://github.com/Lahari1847">
-<img src="https://img.shields.io/badge/GitHub-Lahari1847-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Lahari1847-black?style=for-the-badge&logo=github" />
 </a>
+
 <a href="https://www.linkedin.com/in/lahari-aradhya-5ab315339">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-</p>
 
 </div>
 
@@ -25,11 +24,15 @@
 
 ## 👩‍💻 About Me
 
-I'm a **B.E. Artificial Intelligence & Data Science student** passionate about Python, Data Analytics, Artificial Intelligence, Machine Learning, and building real-world applications.
+Hi, I'm **Lahari Aradhya**!
+
+**Artificial Intelligence & Data Science Student | 🐍 Python Developer | 📊 Data & AI Enthusiast**
+
+I'm a B.E. Artificial Intelligence & Data Science student passionate about Python, Data Analytics, Artificial Intelligence, Machine Learning, and building real-world applications.
 
 I enjoy turning ideas into practical projects, learning new technologies, and continuously improving my programming and problem-solving skills.
 
-- 🎓 Pursuing Engineering in Artificial Intelligence & Data Science
+- 🎓 B.E. Artificial Intelligence & Data Science Student
 - 🐍 Interested in Python programming and software development
 - 📊 Exploring data analytics and data-driven decision making
 - 🤖 Interested in AI, Machine Learning and intelligent systems
@@ -42,14 +45,16 @@ I enjoy turning ideas into practical projects, learning new technologies, and co
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Data Science & AI
+### 📊 Data Science & AI
+
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -57,7 +62,8 @@ I enjoy turning ideas into practical projects, learning new technologies, and co
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Web Development
+### 🌐 Web Development
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -65,7 +71,8 @@ I enjoy turning ideas into practical projects, learning new technologies, and co
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-### Tools & Platforms
+### ⚙️ Tools & Platforms
+
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -156,12 +163,12 @@ An interactive game project designed to explore game logic, creativity and progr
 - Machine Learning Algorithms and Model Building
 - Data Visualization and Exploratory Data Analysis
 - SQL and Database Management
-- AI-powered application development
+- AI-powered Application Development
 - Problem-solving and Data Structures
 
 ---
 
-<!-- ===================== COMPETITIONS ===================== -->
+<!-- ===================== COMPETITIONS & ACTIVITIES ===================== -->
 
 ## 🏆 Competitions & Activities
 
@@ -169,6 +176,7 @@ An interactive game project designed to explore game logic, creativity and progr
 - 💡 Exploring innovative AI and Data Science solutions
 - 👩‍💻 Working on academic and real-world application-based projects
 - 📚 Continuously exploring new technologies and technical concepts
+- 🤝 Collaborating with peers to develop creative technical solutions
 
 ---
 
@@ -197,9 +205,11 @@ My journey in technology is driven by curiosity, creativity and a passion for co
 
 From learning programming fundamentals to developing AI-powered applications, I am exploring how technology, data and intelligent systems can solve real-world challenges.
 
+I enjoy experimenting with new tools, working on projects, participating in technical activities and continuously strengthening my skills.
+
 I believe every project, challenge and new concept is an opportunity to grow.
 
-**Learning today, building tomorrow, innovating for the future. 🚀**
+> **Learning today, building tomorrow, innovating for the future. 🚀**
 
 ---
 
@@ -217,6 +227,8 @@ I believe every project, challenge and new concept is an opportunity to grow.
 
 ---
 
+<!-- ===================== GITHUB STREAK ===================== -->
+
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -227,7 +239,7 @@ I believe every project, challenge and new concept is an opportunity to grow.
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ===================== CONNECT WITH ME ===================== -->
 
 ## 🤝 Connect With Me
 
