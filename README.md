@@ -1,25 +1,25 @@
-<!-- ================= HEADER ================= -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=220&section=header&text=Lahari%20Aradhya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:164E63&height=220&section=header&text=Lahari%20Aradhya&fontSize=50&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science&descAlignY=60&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Python+Developer;Data+%26+AI+Enthusiast;Machine+Learning+Explorer;Turning+Ideas+Into+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Data+%26+AI+Enthusiast;Machine+Learning+Explorer;Turning+Ideas+Into+Projects" alt="Typing SVG" />
 
 <p>
-<a href="https://github.com/Lahari1847">
-<img src="https://img.shields.io/badge/GitHub-Lahari1847-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/lahari-aradhya-5ab315339">
-<img src="https://img.shields.io/badge/LinkedIn-Lahari%20Aradhya-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://github.com/Lahari1847">
+    <img src="https://img.shields.io/badge/GitHub-Lahari1847-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lahari-aradhya-5ab315339">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-<!-- ================= INTRODUCTION ================= -->
+<!-- ═══════════════ INTRODUCTION ═══════════════ -->
 
 ## 👋 Hi, I'm Lahari Aradhya
 
@@ -31,23 +31,24 @@ I enjoy turning ideas into practical projects, learning new technologies, and co
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
 
 ## 👩‍💻 About Me
 
 - 🎓 B.E. Artificial Intelligence & Data Science
-- 🏫 SJC Institute of Technology (SJCIT)
+- 🏫 SJC Institute of Technology
 - 📅 Batch: 2024–2028
-- 🐍 Interested in Python & Software Development
-- 📊 Exploring Data Analytics & Data Science
-- 🤖 Learning Artificial Intelligence & Machine Learning
-- 💡 Interested in solving real-world problems with technology
+- 🐍 Passionate about Python and programming
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 📊 Interested in Data Analytics & Data Science
+- 🌐 Exploring Web Development
+- 💡 Interested in solving real-world problems using technology
 - 🚀 Building practical projects and experimenting with new ideas
-- 🏆 Interested in hackathons and technical competitions
+- 🏆 Interested in hackathons and innovation challenges
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -88,78 +89,59 @@ I enjoy turning ideas into practical projects, learning new technologies, and co
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- ═══════════════ PROJECTS ═══════════════ -->
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🌱 AI Food Demand & Waste Prediction
 
-An AI/ML-based project designed to predict food demand in college canteens and hostels, helping reduce food waste and improve meal planning.
+</div>
 
-**Focus:** Python • Machine Learning • Pandas • Scikit-learn • Flask
+An AI/ML-based solution designed to predict food demand in college canteens and hostels, helping reduce food waste and improve meal preparation planning.
 
-🔗 [View Repository](https://github.com/Lahari1847/REPLACE_WITH_FOOD_PROJECT_REPO)
+**Highlights:**
+- 📊 Food demand prediction
+- 🤖 Machine Learning-based forecasting
+- 🍱 Recommended meal preparation
+- ♻️ Food waste reduction
+
+**Tech Stack:** Python • Pandas • Scikit-learn • Machine Learning • Flask
+
+<p>
+<a href="https://github.com/Lahari1847/REPLACE_WITH_FOOD_PROJECT_REPO">
+<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
+
+<div align="center">
 
 ### 🌍 EcoRoute AI
 
-A smart urban resource management solution designed to support efficient waste management and sustainable urban planning.
+</div>
 
-**Focus:** Artificial Intelligence • Smart Waste Management • Optimization • Sustainability
+An intelligent urban resource management solution focused on smart waste management and sustainable urban operations, designed to explore efficient resource management through technology.
 
-🔗 [View Repository](https://github.com/Lahari1847/REPLACE_WITH_ECOROUTE_REPO)
+**Highlights:**
+- ♻️ Smart waste management
+- 🤖 AI-driven solution
+- 🌍 Sustainable urban resource management
+- 🚀 Technology-driven environmental impact
 
----
+**Tech Stack:** Artificial Intelligence • Web Development • Optimization • Smart Waste Management
 
-### 🏥 Smart Healthcare Chatbot
-
-An AI-based healthcare assistant exploring interactive symptom information and preliminary health guidance.
-
-**Focus:** Python • AI • NLP • Healthcare
-
-🔗 [View Repository](https://github.com/Lahari1847/REPLACE_WITH_HEALTHCARE_REPO)
-
----
-
-### 🎬 Deepfake Detection
-
-An AI/ML project exploring techniques for identifying manipulated or deepfake media.
-
-**Focus:** Artificial Intelligence • Machine Learning • Computer Vision
-
-🔗 [View Repository](https://github.com/Lahari1847/REPLACE_WITH_DEEPFAKE_REPO)
+<p>
+<a href="https://github.com/Lahari1847/REPLACE_WITH_ECOROUTE_REPO">
+<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 🚌 Bus Tracking System
-
-A transportation-focused application designed to help track college buses and provide useful transportation information.
-
-**Focus:** Web Development • Transportation • Tracking
-
-🔗 [View Repository](https://github.com/Lahari1847/REPLACE_WITH_BUS_REPO)
-
----
-
-<!-- ================= CAREER GOALS ================= -->
-
-## 🎯 Career Goals
-
-I'm building my skills toward opportunities in:
-
-- 📊 Data Analytics
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Data Science
-- 🐍 Python Development
-- 📈 Business Intelligence & Analytics
-- 🗄️ Data Engineering
-
-> My goal is to combine programming + data + AI to create useful and impactful solutions.
-
----
-
-<!-- ================= AREAS OF INTEREST ================= -->
+<!-- ═══════════════ AREAS OF INTEREST ═══════════════ -->
 
 ## 🧠 Areas of Interest
 
@@ -176,7 +158,7 @@ I'm building my skills toward opportunities in:
 
 ---
 
-<!-- ================= CURRENTLY LEARNING ================= -->
+<!-- ═══════════════ LEARNING ═══════════════ -->
 
 ## 🌱 Currently Learning
 
@@ -192,71 +174,86 @@ I'm building my skills toward opportunities in:
 
 ---
 
-<!-- ================= ACTIVITIES ================= -->
+<!-- ═══════════════ CAREER GOALS ═══════════════ -->
 
-## 🏆 Competitions & Activities
+## 🎯 Career Goals
 
-- 🤖 AI & Data Science Projects
-- 💡 Hackathons & Innovation Challenges
-- 🏆 IBM Z Datathon 2026
-- 🚀 Real-world Problem-Solving Projects
-- 📚 Continuous Technical Learning
+I'm building my skills toward opportunities in:
+
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Data Science
+- 🐍 Python Development
+- 📈 Business Intelligence & Analytics
+- 🗄️ Data Engineering
+
+> My goal is to combine **Programming + Data + AI** to create useful and impactful solutions.
 
 ---
 
-<!-- ================= JOURNEY ================= -->
+<!-- ═══════════════ DEVELOPMENT JOURNEY ═══════════════ -->
 
 ## 📈 My Development Journey
 
 <div align="center">
 
-### Learn → Build → Experiment → Solve Problems
+```text
+     LEARN
+       ↓
+     BUILD
+       ↓
+   EXPERIMENT
+       ↓
+  SOLVE PROBLEMS
+       ↓
+    INNOVATE
+```
 
 </div>
 
-> Learn continuously. Build consistently. Solve real problems.
+> ✨ Learn continuously. Build consistently. Explore fearlessly. Solve real-world problems.
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lahari1847&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lahari1847&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari1847&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari1847&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ================= STREAK ================= -->
+<!-- ═══════════════ STREAK ═══════════════ -->
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lahari1847&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Lahari1847&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ================= CONTRIBUTIONS ================= -->
+<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lahari1847&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lahari1847&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- ═══════════════ CONNECT ═══════════════ -->
 
 ## 🤝 Connect With Me
 
@@ -280,13 +277,6 @@ I'm building my skills toward opportunities in:
 
 *Turning ideas into technology and learning into impact.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F172A,100:020617&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0F172A,100:020617&height=120&section=footer" width="100%" />
 
 </div>
-
-
-
-
-
-
-
