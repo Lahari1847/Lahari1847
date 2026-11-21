@@ -1,13 +1,16 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:164E63&height=220&section=header&text=Lahari%20Aradhya&fontSize=50&fontColor=67E8F9&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1D4ED8&height=220&section=header&text=Lahari%20Aradhya&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science&descAlignY=60&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Data+Analytics+Explorer;AI+%26+Data+Science+Student;Turning+Ideas+Into+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Python+Developer;Data+%26+AI+Enthusiast;Machine+Learning+Explorer;Turning+Ideas+Into+Projects" />
 
 <p>
 <a href="https://github.com/Lahari1847">
 <img src="https://img.shields.io/badge/GitHub-Lahari1847-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/lahari-aradhya-5ab315339">
 <img src="https://img.shields.io/badge/LinkedIn-Lahari%20Aradhya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -17,24 +20,37 @@
 
 ---
 
-## 👩‍💻 About Me
+<!-- ===================== INTRODUCTION ===================== -->
 
-- 🎓 B.E. Artificial Intelligence & Data Science
-- 🏫 SJC Institute of Technology
-- 📅 Batch: 2024–2028
-- 🐍 Passionate about Python & programming
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 📊 Interested in Data Analytics & Data Science
-- 🌐 Learning Web Development
-- 💡 Turning ideas into practical solutions
-- 🚀 Building projects and exploring new technologies
-- 🏆 Interested in hackathons and innovation
+## 👋 Hi, I'm Lahari Aradhya
 
-> ✨ Small steps every day lead to big dreams.
+### 🤖 Artificial Intelligence & Data Science Student | 🐍 Python Developer | 📊 Data & AI Enthusiast
+
+I'm a B.E. Artificial Intelligence & Data Science student passionate about Python, Data Analytics, Artificial Intelligence, Machine Learning, and building real-world applications.
+
+I enjoy turning ideas into practical projects, learning new technologies, and continuously improving my programming and problem-solving skills.
 
 ---
 
-## ⚙️ Tech Stack
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👩‍💻 About Me
+
+- 🎓 B.E. Artificial Intelligence & Data Science
+- 🏫 SJC Institute of Technology (SJCIT)
+- 📅 Batch: 2024–2028
+- 🐍 Interested in Python & Software Development
+- 📊 Exploring Data Analytics & Data Science
+- 🤖 Learning Artificial Intelligence & Machine Learning
+- 💡 Interested in solving real-world problems with technology
+- 🚀 Building practical projects and experimenting with new ideas
+- 🏆 Interested in hackathons and technical competitions
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -53,13 +69,13 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-### 📊 Data Science & AI
+### 📊 Data & AI
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 ### 🗄️ Database & Tools
@@ -68,60 +84,35 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ===================== PROJECTS ===================== -->
 
-<table>
-<tr>
-<td width="50%">
+## 🚀 My GitHub Projects
 
-### 🌱 AI Food Demand & Waste Prediction
+<div align="center">
 
-An ML-based solution for forecasting meal demand in college canteens and hostels to minimize food waste and improve preparation planning.
+<a href="https://github.com/Lahari1847">
+<img src="https://img.shields.io/badge/Explore%20All%20My%20Repositories-Visit%20GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Tech:** Python • Pandas • Scikit-learn • Flask
+</div>
 
-</td>
+### 🌟 Featured Projects
 
-<td width="50%">
+> Add your actual repository links below. Each project title should link directly to its GitHub repository.
 
-### 🌍 EcoRoute AI
-
-A smart urban resource management solution designed to improve waste management and support sustainable city operations.
-
-**Tech:** AI • Optimization • Web Development • Sustainability
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌾 AgriTech Platform
-
-A digital platform designed to connect farmers with bulk buyers and simplify agricultural procurement.
-
-**Tech:** Python • Web Development • Data
-
-</td>
-
-<td width="50%">
-
-### 🎓 Student Management System
-
-An application designed to manage student details, attendance and academic data efficiently.
-
-**Tech:** Python • Data Structures • Data Analytics
-
-</td>
-</tr>
-</table>
+- 🌱 **AI Food Demand & Waste Prediction** — [View Repository](YOUR_FOOD_PROJECT_REPOSITORY_URL)
+- 🌍 **EcoRoute AI** — [View Repository](YOUR_ECOROUTE_REPOSITORY_URL)
+- 🌾 **AgriTech Platform** — [View Repository](YOUR_AGRITECH_REPOSITORY_URL)
+- 🎓 **Student Management System** — [View Repository](YOUR_STUDENT_PROJECT_REPOSITORY_URL)
 
 ---
+
+<!-- ===================== INTERESTS ===================== -->
 
 ## 🧠 Areas of Interest
 
@@ -130,13 +121,15 @@ An application designed to manage student details, attendance and academic data 
 - 📊 Data Science
 - 📈 Data Analytics
 - 🐍 Python Development
-- 💬 Natural Language Processing
 - 📉 Data Visualization
+- 💬 Natural Language Processing
 - 💻 Software Development
 - 🗄️ Database Management
 - 🧩 Problem Solving
 
 ---
+
+<!-- ===================== CURRENT LEARNING ===================== -->
 
 ## 🌱 Currently Learning
 
@@ -152,36 +145,70 @@ An application designed to manage student details, attendance and academic data 
 
 ---
 
-## 🏆 Competitions & Activities
+<!-- ===================== CAREER GOALS ===================== -->
 
-- 🤖 AI & Data Science Projects
-- 💡 Hackathons & Innovation Challenges
-- 🚀 Real-World Problem-Solving Projects
-- 📚 Continuous Technical Learning
+## 🎯 Career Goals
+
+I'm building my skills toward opportunities in:
+
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Data Science
+- 🐍 Python Development
+- 📈 Business Intelligence & Analytics
+- 🗄️ Data Engineering
+
+> My goal is to combine programming + data + AI to create useful and impactful solutions.
 
 ---
+
+<!-- ===================== DEVELOPMENT JOURNEY ===================== -->
+
+## 📈 My Development Journey
+
+<div align="center">
+
+### Learn → Build → Experiment → Solve Problems
+
+</div>
+
+- 📚 Learn continuously and strengthen fundamentals
+- 💻 Build practical projects using technology
+- 🧪 Experiment with new tools and ideas
+- 🧩 Solve real-world problems
+- 🚀 Grow through projects, collaboration and innovation
+
+> Learn continuously. Build consistently. Solve real problems.
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lahari1847&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lahari1847&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari1847&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari1847&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
+
+<!-- ===================== STREAK ===================== -->
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lahari1847&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Lahari1847&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
 ---
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 ## 📈 Contribution Graph
 
@@ -193,16 +220,18 @@ An application designed to manage student details, attendance and academic data 
 
 ---
 
+<!-- ===================== CONNECT ===================== -->
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Lahari1847">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Lahari1847-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/lahari-aradhya-5ab315339">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Lahari%20Aradhya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -215,6 +244,10 @@ An application designed to manage student details, attendance and academic data 
 
 *Turning ideas into technology and learning into impact.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0F172A,100:020617&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:0F172A,100:020617&height=120&section=footer" width="100%" />
 
 </div>
+
+
+
+
